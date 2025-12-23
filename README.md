@@ -41,7 +41,7 @@ If you use this data, please cite the original public sources.
 ## Limitations
 - Rankings and metrics may change year to year.
 - Data accuracy depends on the original public sources.
-- This dataset does not include proprietary or paywalled information.
+- This dataset does not include proprietary or paywalled information; data uploaded to GitHub omits premium information only available to paid US News subscribers.
 
 ## License
 This dataset is shared for educational and non-commercial use.
