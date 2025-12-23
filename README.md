@@ -6,7 +6,7 @@ This repository contains a compiled dataset of publicly available university dat
 Only non-proprietary, publicly available information is included.
 
 ## Data Source
-All data in this repository was collected from publicly accessible sources, including:
+All data in this repository was manually collected from publicly accessible sources, including:
 - U.S. News public university profiles
 - University websites
 - Common data sets
